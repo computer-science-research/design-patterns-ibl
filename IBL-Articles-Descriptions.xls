@@ -1,0 +1,56 @@
+﻿ID;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16
+2;Sim;Sim;Virtual;F;Estruturada;Sim;Sim;Não;Não;Não;Não;Nenhuma;Não se aplica;Não;Nenhum;Questões
+5;Não;Não;Híbrido;M;Guiada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Fixos;Hipóteses
+13;Sim;Sim;Híbrido;F;Estruturada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+17;Sim;Não;Virtual;S;Aberta;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Sim;Nenhum;Questões
+20;Não;Sim;Virtual;M;Estruturada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+26;Não;Não;Físico;S;Guiada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Pesquisa Bibliográfica;Não;Nenhum;Ambas
+27;Não;Não;Virtual;F;Estruturada;Não há atividades metacognitivas;Sim;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Fixos;Nenhum
+28;Não;Não;Virtual;F;Estruturada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Nenhuma;Não se aplica;Sim;Nenhum;Questões
+35;Não;Sim;Híbrido;S;Guiada;Sim;Não;Sim;Não;Sim;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+41;Não;Sim;Virtual;F;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Não se aplica;Sim;Nenhum;Hipóteses
+47;Não;Sim;Virtual;F;Guiada;Não;Não;Sim;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+50;Sim;Sim;Virtual;F;Aberta;Não;Sim;Sim;Não;Não;Não;Nenhuma;Não se aplica;Não;Fixos;Questões
+53;Não;Sim;Virtual;M;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+68;Sim;Sim;Virtual;S;Estruturada;Sim;Não;Não;Não;Sim;Não;Nenhuma;Não se aplica;Não;Nenhum;Hipóteses
+69;Sim;Sim;Híbrido;F;Guiada;Sim;Sim;Sim;Não;Não;Sim;Experimentação;Inferência;Não;Fixos;Hipóteses
+70;Sim;Não;Virtual;F;Guiada;Não há atividades metacognitivas;Sim;Sim;Sim;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+73;Não;Sim;Físico;F;Guiada;Sim;Não;Não;Sim;Sim;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+76;Sim;Sim;Híbrido;F;Estruturada;Sim;Não;Não;Não;Não;Sim;Experimentação;Inferência;Não;Nenhum;Hipóteses
+78;Sim;Sim;Híbrido;S;Guiada;Sim;Não;Não;Não;Sim;Sim;Pesquisa de Campo;Pesquisa Bibliográfica;Não;Nenhum;Questões
+79;Sim;Sim;Virtual;F;Estruturada;Sim;Não;Sim;Sim;Não;Não;Nenhuma;Não se aplica;Sim;Nenhum;Questões
+83;Não;Sim;Físico;F;Estruturada;Sim;Sim;Não;Sim;Não;Não;Nenhuma;Não se aplica;Não;Nenhum;Questões
+85;Não;Sim;Físico;F;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Ambas
+89;Não;Sim;Virtual;S;Aberta;Sim;Não;Não;Não;Não;Não;Experimentação;Pesquisa Bibliográfica;Não;Nenhum;Questões
+96;Não;Sim;Físico;F;Guiada;Sim;Sim;Sim;Não;Não;Não;Experimentação;Apresentação direta;Não;Rotativos;Hipóteses
+97;Não;Sim;Virtual;S;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Pesquisa Bibliográfica;Não;Nenhum;Hipóteses
+98;Não;Sim;Virtual;S;Guiada;Sim;Sim;Sim;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+100;Não;Não;Híbrido;M;Estruturada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Nenhum
+102;Sim;Não;Virtual;S;Guiada;Sim;Sim;Não;Sim;Sim;Não;Experimentação;Apresentação direta;Não;Nenhum;Nenhum
+103;Não;Não;Físico;F;Estruturada;Não há atividades metacognitivas;Não;Sim;Não;Sim;Não;Experimentação;Apresentação direta;Sim;Nenhum;Nenhum
+105;Não;Não;Físico;F;Guiada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Sim;Nenhum;Questões
+106;Sim;Não;Físico;B;Estruturada;Não há atividades metacognitivas;Sim;Sim;Não;Não;Sim;Experimentação;Apresentação direta;Não;Rotativos;Questões
+117;Sim;Sim;Virtual;F;Guiada;Sim;Não;Sim;Não;Não;Não;Nenhuma;Não se aplica;Não;Nenhum;Ambas
+124;Não;Não;Físico;S;Guiada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Inferência;Não;Nenhum;Hipóteses
+126;Não;Sim;Físico;F;Guiada;Sim;Sim;Sim;Não;Não;Não;Pesquisa de Campo;Apresentação direta;Não;Nenhum;Ambas
+129;Sim;Sim;Físico;F;Estruturada;Sim;Não;Sim;Sim;Sim;Não;Ambas;Pesquisa Bibliográfica;Não;Nenhum;Ambas
+132;Não;Não;Virtual;F;Guiada;Não há atividades metacognitivas;Sim;Não;Não;Sim;Não;Experimentação;Apresentação direta;Não;Fixos;Questões
+135;Sim;Sim;Físico;F;Guiada;Sim;Não;Não;Não;Não;Não;Ambas;Apresentação direta;Não;Nenhum;Ambas
+141;Não;Sim;Virtual;S;Guiada;Sim;Não;Não;Sim;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Ambas
+143;Sim;Sim;Físico;S;Estruturada;Sim;Sim;Não;Não;Não;Não;Nenhuma;Não se aplica;Sim;Rotativos;Nenhum
+146;Não;Sim;Virtual;S;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Questões
+150;Não;Sim;Virtual;F;Guiada;Sim;Não;Não;Não;Não;Não;Experimentação;Não se aplica;Sim;Nenhum;Hipóteses
+151;Não;Sim;Físico;F;Aberta;Sim;Não;Sim;Não;Não;Não;Ambas;Apresentação direta;Sim;Nenhum;Ambas
+158;Sim;Sim;Físico;S;Estruturada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Nenhum
+159;Sim;Não;Físico;S;Estruturada;Não há atividades metacognitivas;Sim;Não;Sim;Não;Não;Nenhuma;Não se aplica;Não;Rotativos;Hipóteses
+162;Não;Não;Virtual;S;Guiada;Não há atividades metacognitivas;Não;Não;Sim;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Nenhum
+166;Sim;Sim;Virtual;M;Guiada;Sim;Não;Sim;Sim;Sim;Sim;Nenhuma;Não se aplica;Não;Fixos;Nenhum
+180;Sim;Sim;Virtual;S;Guiada;Sim;Sim;Não;Não;Não;Não;Nenhuma;Não se aplica;Não;Nenhum;Questões
+183;Sim;Sim;Virtual;M;Aberta;Não;Não;Não;Não;Não;Não;Nenhuma;Não se aplica;Sim;Nenhum;Questões
+185;Sim;Sim;Virtual;M;Guiada;Sim;Sim;Não;Não;Não;Sim;Nenhuma;Não se aplica;Não;Fixos;Ambas
+207;Sim;Sim;Virtual;S;Aberta;Sim;Sim;Não;Não;Não;Não;Nenhuma;Não se aplica;Não;Nenhum;Questões
+227;Não;Sim;Físico;F;Estruturada;Sim;Não;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Fixos;Hipóteses
+242;Não;Sim;Virtual;F;Guiada;Sim;Sim;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Nenhum;Hipóteses
+253;Sim;Sim;Virtual;S;Guiada;Sim;Sim;Não;Não;Não;Não;Experimentação;Apresentação direta;Não;Fixos;Hipóteses
+254;Sim;Não;Físico;M;Guiada;Não há atividades metacognitivas;Sim;Não;Não;Não;Não;Nenhuma;Apresentação direta;Não;Fixos;Hipóteses
+289;Sim;Não;Virtual;F;Estruturada;Não há atividades metacognitivas;Não;Não;Não;Não;Não;Experimentação;Inferência;Não;Nenhum;Hipóteses
